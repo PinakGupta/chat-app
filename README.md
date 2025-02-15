@@ -10,11 +10,31 @@ Welcome to the Chat-App repository! This project is a real-time chat application
 - 🚀 **Online user status**: Live user status updates using Socket.io and React Context
 - 👌 **Global state management**: Efficient state management with Zustand
 
+## 🖼️ Screenshots
+
+### 💬 Chat Feature
+In this screenshot, Hemant is chatting with Riya:
+
+**Chat - Screenshot 1**:
+![Chat - 1](assets/chat1.png)
+
+**Chat - Screenshot 2**:
+![Chat - 2](assets/chat2.png)
+
+### 📝 Signup Page
+Simple and intuitive signup process:
+![Signup](assets/signup.png)
+
+### 🔑 Signin Page
+Secure and easy signin page:
+![Signin](assets/signin.png)
+
 ## 📋 Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -61,30 +81,6 @@ To get a local copy up and running, follow these simple steps:
 3. **Open your browser:**
     Navigate to `http://localhost:3000` to see the application in action.
 
-## 📌 Features
-
-### 🌟 Tech stack
-
-- **MERN**: MongoDB, Express, React, Node.js
-- **Socket.io**: For real-time communication
-- **TailwindCSS**: For styling
-- **Daisy UI**: For UI components
-
-### 🎃 Authentication & Authorization
-
-- Secure JWT-based authentication and authorization
-
-### 👾 Real-time messaging
-
-- Instant messaging with Socket.io
-
-### 🚀 Online user status
-
-- Real-time user status updates using Socket.io and React Context
-
-### 👌 Global state management
-
-- State management with Zustand
 
 ## 🤝 Contributing
 
